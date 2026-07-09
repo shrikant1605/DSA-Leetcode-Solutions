@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -102,10 +103,15 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

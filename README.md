@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@
 | [0011-container-with-most-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |

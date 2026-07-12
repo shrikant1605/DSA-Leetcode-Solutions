@@ -53,6 +53,7 @@
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

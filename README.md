@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,10 +134,12 @@
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |

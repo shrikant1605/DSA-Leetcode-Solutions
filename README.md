@@ -150,5 +150,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

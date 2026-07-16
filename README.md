@@ -118,6 +118,7 @@
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |
@@ -136,6 +137,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -152,6 +154,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Linked List
@@ -159,5 +162,6 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

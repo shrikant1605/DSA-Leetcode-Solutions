@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -177,11 +178,13 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |

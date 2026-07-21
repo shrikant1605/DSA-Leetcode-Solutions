@@ -184,6 +184,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |

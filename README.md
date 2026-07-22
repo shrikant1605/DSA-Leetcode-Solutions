@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0289-game-of-life) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
@@ -202,6 +206,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |

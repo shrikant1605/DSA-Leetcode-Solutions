@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

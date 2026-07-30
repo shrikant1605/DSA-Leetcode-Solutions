@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -131,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -152,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack

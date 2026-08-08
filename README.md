@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -103,6 +105,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0371-sum-of-two-integers](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Heap (Priority Queue)

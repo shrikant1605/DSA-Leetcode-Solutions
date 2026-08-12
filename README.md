@@ -76,6 +76,7 @@
 | [0014-longest-common-prefix](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -149,6 +150,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0148-sort-list) |

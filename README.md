@@ -31,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -179,6 +180,7 @@
 | [0091-decode-ways](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -255,6 +257,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
@@ -303,4 +306,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

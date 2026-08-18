@@ -36,6 +36,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [0213-house-robber-ii](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |

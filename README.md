@@ -80,6 +80,7 @@
 | [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |

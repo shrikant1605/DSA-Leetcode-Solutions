@@ -52,6 +52,7 @@
 | [0133-clone-graph](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -119,6 +120,7 @@
 | [0012-integer-to-roman](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
@@ -164,6 +166,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |
@@ -332,4 +335,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0046-permutations) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

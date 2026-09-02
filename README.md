@@ -38,6 +38,7 @@
 | [0704-binary-search](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0202-happy-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

@@ -89,6 +89,7 @@
 | [0125-valid-palindrome](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -271,6 +274,7 @@
 | [0207-course-schedule](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -289,6 +293,7 @@
 | [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -309,6 +314,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |

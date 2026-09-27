@@ -15,14 +15,10 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        if(root==null)return null;
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            TreeNode temp = queue.poll();
-            if(temp.val == val)return temp;
-            if(temp.left!=null)queue.add(temp.left);
-            if(temp.right!=null)queue.add(temp.right);
+        while(root!=null){
+            if(root.val==val)return root;
+            if(val<root.val)root = root.left;
+            else root = root.right;
         }
         return null;
     }

@@ -61,6 +61,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Sorting
 |  |
@@ -74,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -277,6 +280,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -296,6 +300,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -317,6 +322,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |

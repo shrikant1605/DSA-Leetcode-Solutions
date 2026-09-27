@@ -258,6 +258,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -322,6 +323,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
@@ -335,6 +337,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Graph Theory
 |  |

@@ -87,6 +87,7 @@
 | [0014-longest-common-prefix](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
@@ -437,4 +440,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

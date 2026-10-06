@@ -102,6 +102,7 @@
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -449,4 +452,5 @@
 | [0032-longest-valid-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

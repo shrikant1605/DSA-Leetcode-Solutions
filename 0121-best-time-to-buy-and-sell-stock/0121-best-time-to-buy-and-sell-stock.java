@@ -4,7 +4,7 @@ class Solution {
         int max = 0;
         for(int i:prices){
             if(i<min)min = i;
-            max = Math.max(i-min,max);
+            max = Math.max(max,i-min);
         }
         return max;
     }

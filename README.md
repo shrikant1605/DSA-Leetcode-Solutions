@@ -33,6 +33,7 @@
 | [0213-house-robber-ii](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -181,6 +182,7 @@
 | [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Union-Find
 |  |

@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -181,6 +182,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -373,6 +375,7 @@
 | [0099-recover-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |

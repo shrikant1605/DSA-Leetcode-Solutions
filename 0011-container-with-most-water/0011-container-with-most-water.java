@@ -4,12 +4,15 @@ class Solution {
         int right = height.length-1;
         int max = 0;
         while(left<right){
-            int width = right-left;
-            int minHeight = Math.min(height[left],height[right]);
-            max = Math.max(width*minHeight,max);
-            if(height[left]<height[right])left++;
+            int h = Math.min(height[left],height[right]);
+            int w = right-left;
+            max = Math.max(max,h*w);
+            if(height[left]<height[right]){
+                left++;
+            }
             else right--;
         }
-        return max;
+    return max;
+
     }
 }

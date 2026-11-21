@@ -38,6 +38,7 @@
 | [0289-game-of-life](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -63,6 +64,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -156,6 +158,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/shrikant1605/DSA-Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
